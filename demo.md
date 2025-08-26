@@ -1,2 +1,2 @@
 i like mou ren mouse rise cook
-let demo string = "jacky"
+let demo string = "jacky"sss
